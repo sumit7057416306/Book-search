@@ -189,3 +189,12 @@ h1{
     margin-top: 50px;
     border: 2px solid black;
 }
+
+#book-results{
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 1rem;
+    /* display: flex; */
+
+}
